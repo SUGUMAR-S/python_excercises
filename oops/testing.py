@@ -6,7 +6,7 @@ class Movies:
         self.hero = hero
         self.director=  director
 
-    def movies_list(self): 
+    def movies_list(self):  
 
         print({"movie name ": self.movie_name, 
                "hero name ": self.hero, 
