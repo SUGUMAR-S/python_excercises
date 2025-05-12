@@ -11,7 +11,7 @@ class Movies:
         print({"movie name ": self.movie_name, 
                "hero name ": self.hero, 
                "Director name ": self.director})
-
+ 
 list=[]
 
 while True:
